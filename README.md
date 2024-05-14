@@ -1,7 +1,7 @@
 ## Reinforcement Learning in Maze Environment
 
 ### Overview
-This Python notebook provides a simulation for studying reinforcement learning (RL) algorithms within a maze-like environment. It includes a graphical representation to help visualize the agent's path through the maze, obstacles, and rewards.
+This Python file provides a simulation for studying reinforcement learning (RL) algorithms within a maze-like environment. It includes a graphical representation to help visualize the agent's path through the maze, obstacles, and rewards.
 
 
 ### Features
