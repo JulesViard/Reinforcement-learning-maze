@@ -4,14 +4,6 @@ import random
 import matplotlib.pyplot as plt # Graphical library
 #from sklearn.metrics import mean_squared_error # Mean-squared error function
 
-
-# # Coursework 1 :
-# See pdf for instructions. 
-
-
-# WARNING: fill in these two functions that will be used by the auto-marking script
-# [Action required]
-
 def get_CID():
   return "02461091" # Return your CID (add 0 at the beginning to ensure it is 8 digits long)
 
@@ -19,11 +11,6 @@ def get_login():
   return "jcv23" # Return your short imperial login
 
 
-# ## Helper class
-
-
-# This class is used ONLY for graphics
-# YOU DO NOT NEED to understand it to work on this coursework
 
 class GraphicsMaze(object):
 
